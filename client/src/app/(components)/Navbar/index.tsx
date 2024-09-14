@@ -68,7 +68,7 @@ const Navbar = () => {
             <span className="font-semibold">Dileep Kumar</span>
           </div>
         </div>
-        <Link href="/settings" as="font">
+        <Link href="/settings" as="settings">
           <Settings className="cursor-pointer text-gray-500" size={24} />
         </Link>
       </div>
