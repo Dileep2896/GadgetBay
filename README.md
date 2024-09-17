@@ -2,6 +2,8 @@
 
 GadgetBay is a full-stack web application designed for managing an inventory of electronic gadgets. It provides users with an interface to monitor sales, purchases, expenses, and stock levels, alongside various analytics presented through charts and graphs. This project showcases advanced web technologies in both the frontend and backend, with cloud-based integration for enhanced scalability and performance.
 
+Check out live project: https://main.d39zxydhmolxdc.amplifyapp.com/dashboard
+
 ## Table of Contents
 
 - [Technology Stack](#technology-stack)
